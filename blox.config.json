@@ -1,0 +1,1 @@
+{"name":"demmoouuii","type":2,"source":{"https":"https://github.com/Digambaran/_post_demmoouuii","ssh":"git@github.com:Digambaran/_post_demmoouuii.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
